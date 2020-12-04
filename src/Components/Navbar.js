@@ -4,7 +4,10 @@ import "./Navbar.css";
 
 const Navbar = () => {
   return (
-    <div style={{ width: "100vh" }} className="ui secondary pointing menu">
+    <div
+      style={{ width: "100vh", marginLeft: "21%" }}
+      className="ui secondary pointing menu"
+    >
       <div className="ui container">
         <div className="navbar">
           <Link href="/home" className="linkToPage">

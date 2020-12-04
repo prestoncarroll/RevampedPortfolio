@@ -16,9 +16,10 @@ const Contact = () => {
       >
         Contact Me
       </header>
-      <li style={{ fontSize: "22px" }}>
-        Click on any of the following icons to reach me{" "}
-      </li>
+      <p style={{ marginLeft: " 30%" }}>
+        Click on any of the following icons to reach me
+      </p>
+
       <div className="ui container">
         <div className="contactIcons">
           <a href="https://www.linkedin.com/in/preston-carroll-868791194/">
