@@ -2,6 +2,7 @@ import React from "react";
 import linkedinicon from "./Images/linkedinicon.png";
 import mail from "./Images/mail.webp";
 import githubnew from "./Images/githubnew.jpg";
+import twitter from "./Images/twitter.png";
 
 const Contact = () => {
   return (
@@ -15,6 +16,9 @@ const Contact = () => {
       >
         Contact Me
       </header>
+      <li style={{ fontSize: "22px" }}>
+        Click on any of the following icons to reach me{" "}
+      </li>
       <div className="ui container">
         <div className="contactIcons">
           <a href="https://www.linkedin.com/in/preston-carroll-868791194/">
@@ -34,7 +38,7 @@ const Contact = () => {
                 borderRadius: "1%",
                 height: "202px",
               }}
-              alt="no"
+              alt="mailIcon"
             />
           </a>
 
@@ -46,6 +50,16 @@ const Contact = () => {
                 height: "202px",
               }}
               alt="githubIcon"
+            />
+          </a>
+          <a href="https://twitter.com/Preston14901546">
+            <img
+              src={twitter}
+              style={{
+                borderRadius: "30%",
+                height: "202px",
+              }}
+              alt="twitterIcon"
             />
           </a>
         </div>
