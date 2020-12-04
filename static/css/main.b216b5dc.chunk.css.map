@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/Navbar.css"],"names":[],"mappings":"AAAA,YACE,UAAY,CACZ,WAAY,CACZ,cAEF,CAMA,qBACE,qBACF","file":"main.b216b5dc.chunk.css","sourcesContent":[".linkToPage {\n  color: white;\n  margin: 10px;\n  font-size: 20px;\n  background-color: black;\n}\n\nbody {\n  background-color: black;\n}\n\n.ui {\n  background-color: black;\n}\n"]}

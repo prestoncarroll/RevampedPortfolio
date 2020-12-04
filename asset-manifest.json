@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/RevampedPortfolio/static/css/main.b216b5dc.chunk.css",
+    "main.js": "/RevampedPortfolio/static/js/main.ce726052.chunk.js",
+    "main.js.map": "/RevampedPortfolio/static/js/main.ce726052.chunk.js.map",
+    "runtime-main.js": "/RevampedPortfolio/static/js/runtime-main.01bab9cf.js",
+    "runtime-main.js.map": "/RevampedPortfolio/static/js/runtime-main.01bab9cf.js.map",
+    "static/js/2.66ea6fbe.chunk.js": "/RevampedPortfolio/static/js/2.66ea6fbe.chunk.js",
+    "static/js/2.66ea6fbe.chunk.js.map": "/RevampedPortfolio/static/js/2.66ea6fbe.chunk.js.map",
+    "index.html": "/RevampedPortfolio/index.html",
+    "static/css/main.b216b5dc.chunk.css.map": "/RevampedPortfolio/static/css/main.b216b5dc.chunk.css.map",
+    "static/js/2.66ea6fbe.chunk.js.LICENSE.txt": "/RevampedPortfolio/static/js/2.66ea6fbe.chunk.js.LICENSE.txt",
+    "static/media/drinks.b99458ff.png": "/RevampedPortfolio/static/media/drinks.b99458ff.png",
+    "static/media/giftastic.df5ddd7f.png": "/RevampedPortfolio/static/media/giftastic.df5ddd7f.png",
+    "static/media/goodKnight.a56353b9.png": "/RevampedPortfolio/static/media/goodKnight.a56353b9.png",
+    "static/media/mail.55537c0b.webp": "/RevampedPortfolio/static/media/mail.55537c0b.webp",
+    "static/media/me2.a33f7cd9.jpg": "/RevampedPortfolio/static/media/me2.a33f7cd9.jpg",
+    "static/media/phase.072d1008.png": "/RevampedPortfolio/static/media/phase.072d1008.png",
+    "static/media/timedQuiz.8076b403.png": "/RevampedPortfolio/static/media/timedQuiz.8076b403.png",
+    "static/media/train.8d28e7c9.png": "/RevampedPortfolio/static/media/train.8d28e7c9.png",
+    "static/media/twitter.28285e7e.png": "/RevampedPortfolio/static/media/twitter.28285e7e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01bab9cf.js",
+    "static/js/2.66ea6fbe.chunk.js",
+    "static/css/main.b216b5dc.chunk.css",
+    "static/js/main.ce726052.chunk.js"
+  ]
+}
