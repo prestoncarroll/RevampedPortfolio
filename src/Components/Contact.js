@@ -27,15 +27,16 @@ const Contact = () => {
               alt="linkedinIcon"
             />
           </a>
-
-          <img
-            src={mail}
-            style={{
-              borderRadius: "1%",
-              height: "202px",
-            }}
-            alt="no"
-          />
+          <a class="mailto" href="mailto:plutusinc1@yahoo.com">
+            <img
+              src={mail}
+              style={{
+                borderRadius: "1%",
+                height: "202px",
+              }}
+              alt="no"
+            />
+          </a>
 
           <a href="https://github.com/prestoncarroll">
             <img
