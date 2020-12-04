@@ -4,21 +4,23 @@ import AboutMe from "./AboutMe";
 
 const Home = () => {
   return (
-    <div className="imageOfMe">
-      {" "}
-      <img
-        src={me2}
-        style={{
-          height: "150px",
-          borderRadius: "50%",
-          marginLeft: "40%",
-          transition: "3",
-        }}
-        className="img"
-        alt="none"
-      />
-      <AboutMe />
-    </div>
+    <React.Fragment>
+      <div className="imageOfMe">
+        {" "}
+        <img
+          src={me2}
+          style={{
+            height: "150px",
+            borderRadius: "50%",
+            marginLeft: "40%",
+            transition: "3",
+          }}
+          className="img"
+          alt="none"
+        />
+        <AboutMe />
+      </div>
+    </React.Fragment>
   );
 };
 
