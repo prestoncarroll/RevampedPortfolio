@@ -20,6 +20,7 @@ const App = () => {
           <Contact />
         </Route>
       </div>
+      <Home></Home>
     </React.Fragment>
   );
 };
