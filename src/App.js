@@ -7,18 +7,20 @@ import Projects from "./Components/Projects";
 
 const App = () => {
   return (
-    <div>
-      <Navbar />
-      <Route path="/home">
-        <Home />
-      </Route>
-      <Route path="/projects">
-        <Projects />
-      </Route>
-      <Route path="/contact">
-        <Contact />
-      </Route>
-    </div>
+    <React.Fragment>
+      <div>
+        <Navbar />
+        <Route path="/home">
+          <Home />
+        </Route>
+        <Route path="/projects">
+          <Projects />
+        </Route>
+        <Route path="/contact">
+          <Contact />
+        </Route>
+      </div>
+    </React.Fragment>
   );
 };
 
