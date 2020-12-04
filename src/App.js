@@ -10,6 +10,9 @@ const App = () => {
     <React.Fragment>
       <div>
         <Navbar />
+        <Route path="/">
+          <Home />
+        </Route>
         <Route path="/home">
           <Home />
         </Route>
@@ -20,7 +23,6 @@ const App = () => {
           <Contact />
         </Route>
       </div>
-      <Home></Home>
     </React.Fragment>
   );
 };
