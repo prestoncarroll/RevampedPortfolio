@@ -1,12 +1,16 @@
 import React from "react";
-import me from "./Images/me.PNG";
+import me2 from "./Images/me2.jpg";
 
 const Home = () => {
   return (
-    <div>
+    <div className="imageOfMe">
       {" "}
-      hello
-      <img src={me} style={{ height: "400px" }} className="mePic" alt="none" />
+      <img
+        src={me2}
+        style={{ height: "150px", borderRadius: "50%" }}
+        className="img"
+        alt="none"
+      />
     </div>
   );
 };
