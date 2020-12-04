@@ -21,8 +21,8 @@ const Awards = () => {
             {" "}
             UCLA - Completion of full stack web development bootcamp{" "}
           </li>
-          <li style={{ width: "100%" }}> UCLA - Best overall group project</li>
-          <li style={{ width: "100%" }}> UCLA - Most resourceful</li>
+          <li style={{ width: "100%" }}> UCLA - Best Overall Group Project</li>
+          <li style={{ width: "100%" }}> UCLA - Most Resourceful</li>
         </p1>
       </div>
     </div>
