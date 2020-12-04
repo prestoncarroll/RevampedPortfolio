@@ -8,13 +8,13 @@ const Navbar = () => {
       <div className="ui container">
         <div className="navbar">
           <Link href="/home" className="linkToPage">
-            home
+            Home
           </Link>
           <Link href="/projects" className="linkToPage">
-            projects
+            Projects
           </Link>
           <Link href="/contact" className="linkToPage">
-            contact
+            Contact
           </Link>
         </div>
       </div>
