@@ -7,6 +7,9 @@ import Button from "react-bootstrap/Button";
 import goodKnight from "./Images/goodKnight.png";
 import timedQuiz from "./Images/timedQuiz.png";
 import train from "./Images/train.png";
+import drinks from "./Images/drinks.png";
+import giftastic from "./Images/giftastic.png";
+import phase from "./Images/phase.png";
 
 const Projects = () => {
   return (
@@ -101,7 +104,7 @@ const Projects = () => {
       <Row>
         <Col>
           <Card style={{ width: "18rem" }}>
-            <Card.Img variant="top" src="holder.js/100px180" />
+            <Card.Img variant="top" src={drinks} />
             <Card.Body>
               <Card.Title>Let's Have A Toast</Card.Title>
               <Card.Text>
@@ -128,7 +131,7 @@ const Projects = () => {
         {/* --------------------------------------------------------------- */}
         <Col>
           <Card style={{ width: "18rem" }}>
-            <Card.Img variant="top" src="holder.js/100px180" />
+            <Card.Img variant="top" src={giftastic} />
             <Card.Body>
               <Card.Title>Gif Tastic</Card.Title>
               <Card.Text>
@@ -155,7 +158,7 @@ const Projects = () => {
         {/* -------------------------------- */}
         <Col>
           <Card style={{ width: "18rem" }}>
-            <Card.Img variant="top" src="holder.js/100px180" />
+            <Card.Img variant="top" src={phase} />
             <Card.Body>
               <Card.Title>Phaser Tamagotchi</Card.Title>
               <Card.Text>
