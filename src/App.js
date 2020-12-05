@@ -11,7 +11,7 @@ const App = () => {
     <React.Fragment>
       <div>
         <Navbar />
-        <Route path="/">
+        <Route path="/RevampedPortfolio/">
           <Rerun />
         </Route>
         <Route path="/home">
