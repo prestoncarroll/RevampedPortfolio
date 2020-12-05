@@ -4,14 +4,15 @@ import Navbar from "./Components/Navbar";
 import Route from "./Components/Route";
 import Contact from "./Components/Contact";
 import Projects from "./Components/Projects";
+import Rerun from "./Components/Rerun";
 
 const App = () => {
   return (
     <React.Fragment>
       <div>
         <Navbar />
-        <Route path="/">
-          <Home />
+        <Route path="/RevampedPortfolio">
+          <Rerun />
         </Route>
         <Route path="/home">
           <Home />
